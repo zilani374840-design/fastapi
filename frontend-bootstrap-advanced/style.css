@@ -1,0 +1,10 @@
+/* Most of the design comes from Bootstrap.
+   Only a few extra styles are written here. */
+
+.navbar-brand {
+    font-size: 1.4rem;
+}
+
+th {
+    white-space: nowrap;   /* keep table headings on one line */
+}
